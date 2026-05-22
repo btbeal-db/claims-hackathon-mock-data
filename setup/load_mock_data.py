@@ -16,8 +16,8 @@
 # COMMAND ----------
 
 # ── Configuration ─────────────────────────────────────────────────────────────
-CATALOG = "dev"             # ← change to your catalog
-SCHEMA  = "claims_hack"  # ← will be created if it doesn't exist
+CATALOG = "agentbuilder_serverless_stable_catalog"             # ← change to your catalog
+SCHEMA  = "claims_mock_data"  # ← will be created if it doesn't exist
 
 # COMMAND ----------
 
@@ -47,8 +47,6 @@ VOL_BASE = f"/Volumes/{CATALOG}/{SCHEMA}"
 
 # COMMAND ----------
 
-spark.sql(f"CREATE CATALOG IF NOT EXISTS `{CATALOG}`")
-spark.sql(f"USE CATALOG `{CATALOG}`")
 spark.sql(f"CREATE SCHEMA IF NOT EXISTS `{SCHEMA}`")
 spark.sql(f"USE SCHEMA `{SCHEMA}`")
 
