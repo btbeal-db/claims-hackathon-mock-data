@@ -1,0 +1,12 @@
+icd10_code,ccs_category,ccs_label,is_chronic
+M17.11,203,Osteoarthritis,True
+M17.12,203,Osteoarthritis,True
+E11.9,49,Diabetes mellitus without complication,False
+E11.65,49,Diabetes mellitus without complication,False
+I10,98,Essential hypertension,True
+I50.9,108,Congestive heart failure; nonhypertensive,True
+I50.32,108,Congestive heart failure; nonhypertensive,True
+N18.5,158,Chronic kidney disease,True
+A41.9,2,Septicemia (except in labor),False
+J44.1,127,COPD and bronchiectasis,True
+I21.09,100,Acute myocardial infarction,False

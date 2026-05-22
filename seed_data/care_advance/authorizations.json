@@ -1,0 +1,236 @@
+[
+  {
+    "auth_ref_number": "AUTH00001",
+    "member_id": "MBR001",
+    "requesting_provider_npi": "1234567890",
+    "rendering_provider_npi": "9876543210",
+    "provider_name": "Strong Memorial Hospital",
+    "diagnosis_codes": [
+      "M17.11",
+      "E11.9"
+    ],
+    "procedure_codes": [
+      "27447"
+    ],
+    "service_codes": [
+      "inpatient_stay"
+    ],
+    "auth_from_date": "2024-03-15",
+    "auth_to_date": "2024-03-17",
+    "authorized_days": 3,
+    "services_rendered": "total knee arthroplasty right",
+    "approval_status": "approved",
+    "decision_support_reviewed": true,
+    "decision_date": "2024-03-10"
+  },
+  {
+    "auth_ref_number": "AUTH00002",
+    "member_id": "MBR002",
+    "requesting_provider_npi": "2345678901",
+    "rendering_provider_npi": "2345678901",
+    "provider_name": "Rochester General Hospital",
+    "diagnosis_codes": [
+      "I50.9",
+      "I10",
+      "E11.65",
+      "N18.5"
+    ],
+    "procedure_codes": [
+      "93306"
+    ],
+    "service_codes": [
+      "inpatient_stay"
+    ],
+    "auth_from_date": "2024-06-10",
+    "auth_to_date": "2024-06-17",
+    "authorized_days": 7,
+    "services_rendered": "inpatient hospitalization for decompensated CHF",
+    "approval_status": "approved",
+    "decision_support_reviewed": true,
+    "decision_date": "2024-06-09"
+  },
+  {
+    "auth_ref_number": "AUTH00003",
+    "member_id": "MBR003",
+    "requesting_provider_npi": "1234567890",
+    "rendering_provider_npi": "1234567890",
+    "provider_name": "Strong Memorial Hospital",
+    "diagnosis_codes": [
+      "I50.9"
+    ],
+    "procedure_codes": [
+      "99233"
+    ],
+    "service_codes": [
+      "inpatient_stay"
+    ],
+    "auth_from_date": "2024-10-06",
+    "auth_to_date": "2024-10-08",
+    "authorized_days": 2,
+    "services_rendered": "inpatient hospitalization",
+    "approval_status": "approved",
+    "decision_support_reviewed": false,
+    "decision_date": "2024-10-06"
+  },
+  {
+    "auth_ref_number": "AUTH00004",
+    "member_id": "MBR004",
+    "requesting_provider_npi": "4567890123",
+    "rendering_provider_npi": "4567890123",
+    "provider_name": "Thompson Health",
+    "diagnosis_codes": [
+      "I50.9"
+    ],
+    "procedure_codes": [
+      "99233"
+    ],
+    "service_codes": [
+      "inpatient_stay"
+    ],
+    "auth_from_date": "2024-02-19",
+    "auth_to_date": "2024-02-23",
+    "authorized_days": 4,
+    "services_rendered": "inpatient hospitalization",
+    "approval_status": "approved",
+    "decision_support_reviewed": false,
+    "decision_date": "2024-02-19"
+  },
+  {
+    "auth_ref_number": "AUTH00005",
+    "member_id": "MBR005",
+    "requesting_provider_npi": "3456789012",
+    "rendering_provider_npi": "3456789012",
+    "provider_name": "Unity Hospital",
+    "diagnosis_codes": [
+      "I50.9"
+    ],
+    "procedure_codes": [
+      "99233"
+    ],
+    "service_codes": [
+      "inpatient_stay"
+    ],
+    "auth_from_date": "2024-06-30",
+    "auth_to_date": "2024-07-03",
+    "authorized_days": 3,
+    "services_rendered": "inpatient hospitalization",
+    "approval_status": "approved",
+    "decision_support_reviewed": false,
+    "decision_date": "2024-06-30"
+  },
+  {
+    "auth_ref_number": "AUTH00006",
+    "member_id": "MBR006",
+    "requesting_provider_npi": "3456789012",
+    "rendering_provider_npi": "3456789012",
+    "provider_name": "Unity Hospital",
+    "diagnosis_codes": [
+      "I50.9"
+    ],
+    "procedure_codes": [
+      "99233"
+    ],
+    "service_codes": [
+      "inpatient_stay"
+    ],
+    "auth_from_date": "2024-04-18",
+    "auth_to_date": "2024-04-25",
+    "authorized_days": 7,
+    "services_rendered": "inpatient hospitalization",
+    "approval_status": "approved",
+    "decision_support_reviewed": false,
+    "decision_date": "2024-04-18"
+  },
+  {
+    "auth_ref_number": "AUTH00007",
+    "member_id": "MBR007",
+    "requesting_provider_npi": "5678901234",
+    "rendering_provider_npi": "5678901234",
+    "provider_name": "Highland Hospital",
+    "diagnosis_codes": [
+      "I50.9"
+    ],
+    "procedure_codes": [
+      "99233"
+    ],
+    "service_codes": [
+      "inpatient_stay"
+    ],
+    "auth_from_date": "2024-02-02",
+    "auth_to_date": "2024-02-07",
+    "authorized_days": 5,
+    "services_rendered": "inpatient hospitalization",
+    "approval_status": "approved",
+    "decision_support_reviewed": false,
+    "decision_date": "2024-02-02"
+  },
+  {
+    "auth_ref_number": "AUTH00008",
+    "member_id": "MBR008",
+    "requesting_provider_npi": "2345678901",
+    "rendering_provider_npi": "2345678901",
+    "provider_name": "Rochester General Hospital",
+    "diagnosis_codes": [
+      "I50.9"
+    ],
+    "procedure_codes": [
+      "99233"
+    ],
+    "service_codes": [
+      "inpatient_stay"
+    ],
+    "auth_from_date": "2024-07-10",
+    "auth_to_date": "2024-07-18",
+    "authorized_days": 8,
+    "services_rendered": "inpatient hospitalization",
+    "approval_status": "approved",
+    "decision_support_reviewed": false,
+    "decision_date": "2024-07-10"
+  },
+  {
+    "auth_ref_number": "AUTH00009",
+    "member_id": "MBR009",
+    "requesting_provider_npi": "5678901234",
+    "rendering_provider_npi": "5678901234",
+    "provider_name": "Highland Hospital",
+    "diagnosis_codes": [
+      "I50.9"
+    ],
+    "procedure_codes": [
+      "99233"
+    ],
+    "service_codes": [
+      "inpatient_stay"
+    ],
+    "auth_from_date": "2024-08-04",
+    "auth_to_date": "2024-08-07",
+    "authorized_days": 3,
+    "services_rendered": "inpatient hospitalization",
+    "approval_status": "approved",
+    "decision_support_reviewed": false,
+    "decision_date": "2024-08-04"
+  },
+  {
+    "auth_ref_number": "AUTH00010",
+    "member_id": "MBR010",
+    "requesting_provider_npi": "2345678901",
+    "rendering_provider_npi": "2345678901",
+    "provider_name": "Rochester General Hospital",
+    "diagnosis_codes": [
+      "I50.9"
+    ],
+    "procedure_codes": [
+      "99233"
+    ],
+    "service_codes": [
+      "inpatient_stay"
+    ],
+    "auth_from_date": "2024-10-03",
+    "auth_to_date": "2024-10-06",
+    "authorized_days": 3,
+    "services_rendered": "inpatient hospitalization",
+    "approval_status": "approved",
+    "decision_support_reviewed": false,
+    "decision_date": "2024-10-03"
+  }
+]

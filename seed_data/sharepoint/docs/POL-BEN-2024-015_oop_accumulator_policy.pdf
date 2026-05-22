@@ -1,0 +1,146 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+3 0 obj
+<< /Length 3801 >>
+stream
+40.0 724.0 532.0 28.0 re S
+BT /F2 8 Tf 42.0 744.0 Td (PAYER CO) Tj ET
+BT /F1 7 Tf 42.0 734.0 Td (CLINICAL POLICY & COVERAGE DOCUMENTATION) Tj ET
+BT /F1 8 Tf 350.0 744.0 Td (Policy ID: POL-BEN-2024-015) Tj ET
+BT /F1 8 Tf 350.0 734.0 Td (Effective: 2024-01-01) Tj ET
+40.0 722.0 m 572.0 722.0 l S
+BT /F2 14 Tf 42.0 702.0 Td (Out-of-Pocket Maximum Accumulator Policy and Audit Process) Tj ET
+BT /F1 8 Tf 42.0 677.0 Td (Policy Number: POL-BEN-2024-015 | Category: Benefits Administration | Department: Claims) Tj ET
+BT /F2 12 Tf 42.0 656.0 Td (1. PURPOSE) Tj ET
+42.0 635.0 m 570.0 635.0 l S
+BT /F1 10 Tf 42.0 625.0 Td (This policy defines how Payer Co calculates, tracks, and reconciles out-of-pocket) Tj ET
+BT /F1 10 Tf 42.0 610.0 Td (\(OOP\) maximum accumulators across plan years, including the process for identifying) Tj ET
+BT /F1 10 Tf 42.0 595.0 Td (and correcting discrepancies between the Facets claims system and Cognos reporting.) Tj ET
+BT /F2 12 Tf 42.0 572.0 Td (2. OOP MAXIMUM DEFINITION) Tj ET
+42.0 551.0 m 570.0 551.0 l S
+BT /F1 10 Tf 42.0 541.0 Td (The annual OOP maximum is the most a member will pay for covered services in a plan year.) Tj ET
+BT /F1 10 Tf 42.0 526.0 Td (After reaching the OOP maximum, Payer Co pays 100% of covered in-network costs.) Tj ET
+BT /F1 10 Tf 54.0 503.0 Td (Amounts that count toward OOP maximum:) Tj ET
+BT /F1 9 Tf 66.0 488.0 Td (Deductible payments) Tj ET
+BT /F1 9 Tf 66.0 474.0 Td (Copayments for covered services) Tj ET
+BT /F1 9 Tf 66.0 460.0 Td (Coinsurance for covered services) Tj ET
+BT /F1 10 Tf 54.0 438.0 Td (Amounts that do NOT count toward OOP maximum:) Tj ET
+BT /F1 9 Tf 66.0 423.0 Td (Premiums) Tj ET
+BT /F1 9 Tf 66.0 409.0 Td (Out-of-network cost-sharing \(for HMO plans\)) Tj ET
+BT /F1 9 Tf 66.0 395.0 Td (Non-covered services) Tj ET
+BT /F1 9 Tf 66.0 381.0 Td (Balance billing from non-participating providers) Tj ET
+BT /F2 12 Tf 42.0 359.0 Td (3. ACCUMULATOR SOURCES OF TRUTH) Tj ET
+42.0 338.0 m 570.0 338.0 l S
+BT /F1 10 Tf 42.0 328.0 Td (Primary system: Facets claims administration system) Tj ET
+BT /F1 9 Tf 54.0 313.0 Td (  - Updated in real-time as claims are adjudicated) Tj ET
+BT /F1 9 Tf 54.0 299.0 Td (  - Member portal display is sourced from Facets) Tj ET
+BT /F1 10 Tf 42.0 277.0 Td (Secondary system: Cognos BI reporting \(accumulator_report extract\)) Tj ET
+BT /F1 9 Tf 54.0 262.0 Td (  - Refreshed nightly via batch extract from Facets) Tj ET
+BT /F1 9 Tf 54.0 248.0 Td (  - Used for audit reporting and regulatory filings) Tj ET
+BT /F1 9 Tf 54.0 234.0 Td (  - Lag of up to 24 hours versus Facets real-time balance) Tj ET
+BT /F2 12 Tf 42.0 212.0 Td (4. KNOWN DISCREPANCY SCENARIOS) Tj ET
+42.0 191.0 m 570.0 191.0 l S
+BT /F1 10 Tf 42.0 181.0 Td (The following scenarios can cause Cognos to differ from Facets:) Tj ET
+BT /F1 10 Tf 54.0 158.0 Td (Scenario A - Adjusted Claims:) Tj ET
+BT /F1 9 Tf 66.0 143.0 Td (Claim adjusted after nightly Cognos extract runs. Facets is correct;) Tj ET
+BT /F1 9 Tf 66.0 129.0 Td (Cognos will reconcile on next nightly run.) Tj ET
+BT /F1 10 Tf 54.0 107.0 Td (Scenario B - Reversed Claims:) Tj ET
+BT /F1 9 Tf 66.0 92.0 Td (Claim reversal processed same day as Cognos extract. Accumulator may be) Tj ET
+BT /F1 9 Tf 66.0 78.0 Td (double-counted in Cognos until next reconciliation cycle.) Tj ET
+BT /F1 10 Tf 54.0 56.0 Td (Scenario C - Coordination of Benefits \(COB\):) Tj ET
+BT /F1 9 Tf 66.0 41.0 Td (COB adjustments may reduce accumulated amounts retroactively.) Tj ET
+BT /F1 9 Tf 66.0 27.0 Td (Facets applies COB in real time; Cognos may show pre-COB balance.) Tj ET
+40.0 40.0 m 572.0 40.0 l S
+BT /F1 7 Tf 42.0 32.0 Td (CONFIDENTIAL - INTERNAL USE ONLY) Tj ET
+BT /F1 7 Tf 42.0 22.0 Td (THIS IS A MOCK DOCUMENT GENERATED FOR HACKATHON TESTING PURPOSES) Tj ET
+BT /F1 7 Tf 530.0 22.0 Td (Page 1) Tj ET
+endstream
+endobj
+4 0 obj
+<< /Type /Page /Parent 7 0 R
+   /MediaBox [0 0 612 792]
+   /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >>
+   /Contents 3 0 R >>
+endobj
+5 0 obj
+<< /Length 3437 >>
+stream
+40.0 724.0 532.0 28.0 re S
+BT /F2 8 Tf 42.0 744.0 Td (PAYER CO) Tj ET
+BT /F1 7 Tf 42.0 734.0 Td (CLINICAL POLICY & COVERAGE DOCUMENTATION) Tj ET
+BT /F1 8 Tf 350.0 744.0 Td (Policy ID: POL-BEN-2024-015) Tj ET
+BT /F1 8 Tf 350.0 734.0 Td (Effective: 2024-01-01) Tj ET
+40.0 722.0 m 572.0 722.0 l S
+BT /F2 11 Tf 42.0 702.0 Td (Out-of-Pocket Maximum Accumulator Policy and Audit Process \(continued\)) Tj ET
+BT /F2 12 Tf 42.0 682.0 Td (5. ACCUMULATOR AUDIT PROCESS) Tj ET
+42.0 661.0 m 570.0 661.0 l S
+BT /F1 10 Tf 42.0 651.0 Td (The high-dollar claims audit pipeline flags members where:) Tj ET
+BT /F1 9 Tf 54.0 636.0 Td (abs\(facets_accumulated - cognos_accumulated\) / facets_accumulated > 0.05  \(>5% variance\)) Tj ET
+BT /F1 9 Tf 54.0 622.0 Td (OR facets_accumulated > oop_max_individual * 0.90  \(within 10% of OOP cap\)) Tj ET
+BT /F1 10 Tf 42.0 600.0 Td (Auditor workflow for each flagged member:) Tj ET
+BT /F1 10 Tf 54.0 585.0 Td (Step 1: Review claim_history for 90-day window \(use service_from_date\)) Tj ET
+BT /F1 10 Tf 54.0 570.0 Td (Step 2: Confirm claim_type filter: professional + institutional \(exclude pharmacy\)) Tj ET
+BT /F1 10 Tf 54.0 555.0 Td (Step 3: Compare line-level allowed amounts to Cognos report rows) Tj ET
+BT /F1 10 Tf 54.0 540.0 Td (Step 4: If discrepancy > $100, escalate to Claims Adjustment team) Tj ET
+BT /F1 10 Tf 54.0 525.0 Td (Step 5: Document finding in audit_decisions table with evidence record) Tj ET
+BT /F2 12 Tf 42.0 502.0 Td (6. 90-DAY LOOKBACK WINDOW DEFINITION) Tj ET
+42.0 481.0 m 570.0 481.0 l S
+BT /F1 10 Tf 42.0 471.0 Td (The 90-day lookback for accumulator validation uses SERVICE_FROM_DATE,) Tj ET
+BT /F1 10 Tf 42.0 456.0 Td (not paid_date or processed_date. This is the regulatory requirement.) Tj ET
+BT /F1 10 Tf 54.0 433.0 Td (Date edge cases:) Tj ET
+BT /F1 9 Tf 66.0 418.0 Td (If service spans multiple calendar years, split accumulation by plan year) Tj ET
+BT /F1 9 Tf 66.0 404.0 Td (COB primary/secondary must be applied before accumulator comparison) Tj ET
+BT /F1 9 Tf 66.0 390.0 Td (Late charges \(billed > 90 days post-service\) count toward service year) Tj ET
+BT /F2 12 Tf 42.0 368.0 Td (7. WRITE-BACK AUTHORIZATION) Tj ET
+42.0 347.0 m 570.0 347.0 l S
+BT /F1 10 Tf 42.0 337.0 Td (Accumulator corrections in Facets require:) Tj ET
+BT /F1 10 Tf 54.0 322.0 Td (Supervisor approval for corrections > $500) Tj ET
+BT /F1 10 Tf 54.0 307.0 Td (Medical Director approval for corrections > $5,000) Tj ET
+BT /F1 10 Tf 54.0 292.0 Td (Regulatory filing for corrections affecting MLR calculation) Tj ET
+BT /F1 10 Tf 42.0 269.0 Td (Automated correction via the AI audit pipeline is NOT permitted.) Tj ET
+BT /F1 10 Tf 42.0 254.0 Td (The pipeline produces recommendations; human auditor executes correction in Facets.) Tj ET
+BT /F2 12 Tf 42.0 231.0 Td (8. REFERENCES) Tj ET
+42.0 210.0 m 570.0 210.0 l S
+BT /F1 10 Tf 42.0 200.0 Td (ACA Section 1302\(c\) - Annual Limitation on Cost-Sharing) Tj ET
+BT /F1 10 Tf 42.0 185.0 Td (CMS 2024 OOP Maximum Limits: Individual $9,450 / Family $18,900) Tj ET
+BT /F1 10 Tf 42.0 170.0 Td (Payer Co Benefits Administration Manual, Chapter 7) Tj ET
+BT /F1 10 Tf 42.0 155.0 Td (NAIC Model Accumulator Rule \(adopted NY 2023\)) Tj ET
+40.0 40.0 m 572.0 40.0 l S
+BT /F1 7 Tf 42.0 32.0 Td (CONFIDENTIAL - INTERNAL USE ONLY) Tj ET
+BT /F1 7 Tf 42.0 22.0 Td (THIS IS A MOCK DOCUMENT GENERATED FOR HACKATHON TESTING PURPOSES) Tj ET
+BT /F1 7 Tf 530.0 22.0 Td (Page 2) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 7 0 R
+   /MediaBox [0 0 612 792]
+   /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >>
+   /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R] /Count 2 >>
+endobj
+8 0 obj
+<< /Type /Catalog /Pages 7 0 R >>
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000009 00000 n 
+0000000106 00000 n 
+0000000208 00000 n 
+0000004061 00000 n 
+0000004208 00000 n 
+0000007697 00000 n 
+0000007844 00000 n 
+0000007907 00000 n 
+trailer
+<< /Size 9 /Root 8 0 R >>
+startxref
+7956
+%%EOF

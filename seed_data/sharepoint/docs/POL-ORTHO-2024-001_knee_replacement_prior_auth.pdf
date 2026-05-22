@@ -1,0 +1,139 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+3 0 obj
+<< /Length 3608 >>
+stream
+40.0 724.0 532.0 28.0 re S
+BT /F2 8 Tf 42.0 744.0 Td (PAYER CO) Tj ET
+BT /F1 7 Tf 42.0 734.0 Td (CLINICAL POLICY & COVERAGE DOCUMENTATION) Tj ET
+BT /F1 8 Tf 350.0 744.0 Td (Policy ID: POL-ORTHO-2024-001) Tj ET
+BT /F1 8 Tf 350.0 734.0 Td (Effective: 2024-01-01) Tj ET
+40.0 722.0 m 572.0 722.0 l S
+BT /F2 14 Tf 42.0 702.0 Td (Prior Authorization Policy: Elective Knee Replacement \(DRG 470/469\)) Tj ET
+BT /F1 8 Tf 42.0 677.0 Td (Policy Number: POL-ORTHO-2024-001 | Category: Prior Authorization | Department: Medical Management) Tj ET
+BT /F2 12 Tf 42.0 656.0 Td (1. PURPOSE) Tj ET
+42.0 635.0 m 570.0 635.0 l S
+BT /F1 10 Tf 42.0 625.0 Td (This policy establishes the prior authorization requirements and medical necessity criteria) Tj ET
+BT /F1 10 Tf 42.0 610.0 Td (for elective total and partial knee replacement procedures \(arthroplasty\) billed under) Tj ET
+BT /F1 10 Tf 42.0 595.0 Td (DRG 470 \(Major Joint Replacement Lower Extremity without MCC\) and DRG 469 \(with MCC\).) Tj ET
+BT /F2 12 Tf 42.0 572.0 Td (2. SCOPE) Tj ET
+42.0 551.0 m 570.0 551.0 l S
+BT /F1 10 Tf 42.0 541.0 Td (Applies to all Payer Co commercial, Medicare Advantage, and Exchange plan members) Tj ET
+BT /F1 10 Tf 42.0 526.0 Td (requiring elective orthopedic surgical intervention for osteoarthritis of the knee.) Tj ET
+BT /F2 12 Tf 42.0 503.0 Td (3. DEFINITIONS) Tj ET
+42.0 482.0 m 570.0 482.0 l S
+BT /F1 10 Tf 54.0 472.0 Td (Total Knee Arthroplasty \(TKA\):) Tj ET
+BT /F1 9 Tf 66.0 457.0 Td (Surgical replacement of the knee joint with a prosthetic implant. CPT 27447 \(total\),) Tj ET
+BT /F1 9 Tf 66.0 443.0 Td (CPT 27446 \(partial/unicompartmental\).) Tj ET
+BT /F1 10 Tf 54.0 421.0 Td (DRG 470:) Tj ET
+BT /F1 9 Tf 66.0 406.0 Td (MS-DRG grouping for Major Joint Replacement Lower Extremity without Major Complication) Tj ET
+BT /F1 9 Tf 66.0 392.0 Td (or Comorbidity \(MCC\). Expected length of stay: 2-4 days.) Tj ET
+BT /F1 10 Tf 54.0 370.0 Td (Primary ICD-10 Indicators:) Tj ET
+BT /F1 9 Tf 66.0 355.0 Td (M17.11 - Primary osteoarthritis, right knee) Tj ET
+BT /F1 9 Tf 66.0 341.0 Td (M17.12 - Primary osteoarthritis, left knee) Tj ET
+BT /F1 9 Tf 66.0 327.0 Td (M17.31 - Secondary osteoarthritis, right knee) Tj ET
+BT /F2 12 Tf 42.0 305.0 Td (4. PRIOR AUTHORIZATION REQUIREMENTS) Tj ET
+42.0 284.0 m 570.0 284.0 l S
+BT /F2 10 Tf 42.0 274.0 Td (4.1 Authorization is REQUIRED for:) Tj ET
+BT /F1 10 Tf 54.0 259.0 Td (All elective TKA procedures regardless of facility type) Tj ET
+BT /F1 10 Tf 54.0 244.0 Td (Admission must be authorized prior to scheduled date of service) Tj ET
+BT /F1 10 Tf 54.0 229.0 Td (Authorization period: up to 4 days inpatient \(standard TKA without complications\)) Tj ET
+BT /F1 10 Tf 54.0 214.0 Td (Authorization number must appear in FL 63 of UB-04 claim form) Tj ET
+BT /F2 10 Tf 42.0 191.0 Td (4.2 Medical Necessity Criteria \(ALL must be met\):) Tj ET
+BT /F1 10 Tf 54.0 176.0 Td (Documented moderate-to-severe knee OA \(Kellgren-Lawrence Grade III or IV\)) Tj ET
+BT /F1 10 Tf 54.0 161.0 Td (Functional limitation documented in medical record \(pain at rest, limited ROM\)) Tj ET
+BT /F1 10 Tf 54.0 146.0 Td (Failure of conservative therapy \(minimum 3 months PT, NSAIDs, or injections\)) Tj ET
+BT /F1 10 Tf 54.0 131.0 Td (BMI < 40 or documented weight management program if BMI 40-50) Tj ET
+BT /F1 10 Tf 54.0 116.0 Td (Medically stable for general or spinal anesthesia) Tj ET
+40.0 40.0 m 572.0 40.0 l S
+BT /F1 7 Tf 42.0 32.0 Td (CONFIDENTIAL - INTERNAL USE ONLY) Tj ET
+BT /F1 7 Tf 42.0 22.0 Td (THIS IS A MOCK DOCUMENT GENERATED FOR HACKATHON TESTING PURPOSES) Tj ET
+BT /F1 7 Tf 530.0 22.0 Td (Page 1) Tj ET
+endstream
+endobj
+4 0 obj
+<< /Type /Page /Parent 7 0 R
+   /MediaBox [0 0 612 792]
+   /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >>
+   /Contents 3 0 R >>
+endobj
+5 0 obj
+<< /Length 3264 >>
+stream
+40.0 724.0 532.0 28.0 re S
+BT /F2 8 Tf 42.0 744.0 Td (PAYER CO) Tj ET
+BT /F1 7 Tf 42.0 734.0 Td (CLINICAL POLICY & COVERAGE DOCUMENTATION) Tj ET
+BT /F1 8 Tf 350.0 744.0 Td (Policy ID: POL-ORTHO-2024-001) Tj ET
+BT /F1 8 Tf 350.0 734.0 Td (Effective: 2024-01-01) Tj ET
+40.0 722.0 m 572.0 722.0 l S
+BT /F2 11 Tf 42.0 702.0 Td (Prior Authorization Policy: Elective Knee Replacement \(DRG 470/469\) \(continued\)) Tj ET
+BT /F2 12 Tf 42.0 682.0 Td (5. AUTHORIZATION DURATION AND EXTENSION) Tj ET
+42.0 661.0 m 570.0 661.0 l S
+BT /F1 10 Tf 42.0 651.0 Td (Standard authorization covers 3 days inpatient post-procedure.) Tj ET
+BT /F1 10 Tf 42.0 636.0 Td (Day 1 authorization covers day of surgery through expected Day 3 discharge.) Tj ET
+BT /F1 10 Tf 54.0 613.0 Td (Extension criteria - clinical review required for stays beyond 4 days:) Tj ET
+BT /F1 9 Tf 66.0 598.0 Td (Unexpected surgical complication \(infection, DVT, PE\)) Tj ET
+BT /F1 9 Tf 66.0 584.0 Td (Hemodynamic instability requiring monitoring) Tj ET
+BT /F1 9 Tf 66.0 570.0 Td (Inability to participate in PT \(pain >7/10 uncontrolled\)) Tj ET
+BT /F1 9 Tf 66.0 556.0 Td (New cardiac event post-operatively) Tj ET
+BT /F1 9 Tf 42.0 534.0 Td (NOTE: Unauthorized days beyond the approved authorization will be subject to) Tj ET
+BT /F1 9 Tf 42.0 520.0 Td (retrospective review and may result in denial. Providers must call 1-800-XXX-XXXX) Tj ET
+BT /F1 9 Tf 42.0 506.0 Td (for same-day extension requests.) Tj ET
+BT /F2 12 Tf 42.0 484.0 Td (6. AUDIT TRIGGERS) Tj ET
+42.0 463.0 m 570.0 463.0 l S
+BT /F1 10 Tf 42.0 453.0 Td (The following patterns trigger automatic claims audit routing:) Tj ET
+BT /F1 10 Tf 54.0 438.0 Td (Actual LOS exceeds authorized days by 1+ day without extension) Tj ET
+BT /F1 10 Tf 54.0 423.0 Td (Authorization dates do not overlap with claim statement dates \(FL 6\)) Tj ET
+BT /F1 10 Tf 54.0 408.0 Td (Rendering provider NPI on claim differs from requesting provider NPI on auth) Tj ET
+BT /F1 10 Tf 54.0 393.0 Td (Total charges exceed $100,000 for DRG 470 without MCC) Tj ET
+BT /F2 12 Tf 42.0 370.0 Td (7. CODING GUIDANCE) Tj ET
+42.0 349.0 m 570.0 349.0 l S
+BT /F1 10 Tf 42.0 339.0 Td (Principal diagnosis must be the condition that required the admission after study.) Tj ET
+BT /F1 10 Tf 42.0 324.0 Td (Secondary diagnoses \(E11.9, I10\) should be coded when documented and treated.) Tj ET
+BT /F1 10 Tf 42.0 309.0 Td (Z96.641/Z96.642 \(presence of joint implant\) should be coded as secondary if applicable.) Tj ET
+BT /F1 10 Tf 42.0 294.0 Td (Discharge status must accurately reflect disposition \(FL 17\).) Tj ET
+BT /F2 12 Tf 42.0 271.0 Td (8. REFERENCES) Tj ET
+42.0 250.0 m 570.0 250.0 l S
+BT /F1 10 Tf 42.0 240.0 Td (CMS ICD-10-CM Official Guidelines for Coding and Reporting FY2024) Tj ET
+BT /F1 10 Tf 42.0 225.0 Td (InterQual Criteria: Acute Care, Musculoskeletal - Knee Replacement) Tj ET
+BT /F1 10 Tf 42.0 210.0 Td (Milliman Care Guidelines: Orthopedic Surgery) Tj ET
+BT /F1 10 Tf 42.0 195.0 Td (CMS MS-DRG Grouper and Definitions Manual Version 41) Tj ET
+40.0 40.0 m 572.0 40.0 l S
+BT /F1 7 Tf 42.0 32.0 Td (CONFIDENTIAL - INTERNAL USE ONLY) Tj ET
+BT /F1 7 Tf 42.0 22.0 Td (THIS IS A MOCK DOCUMENT GENERATED FOR HACKATHON TESTING PURPOSES) Tj ET
+BT /F1 7 Tf 530.0 22.0 Td (Page 2) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 7 0 R
+   /MediaBox [0 0 612 792]
+   /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >>
+   /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R] /Count 2 >>
+endobj
+8 0 obj
+<< /Type /Catalog /Pages 7 0 R >>
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000009 00000 n 
+0000000106 00000 n 
+0000000208 00000 n 
+0000003868 00000 n 
+0000004015 00000 n 
+0000007331 00000 n 
+0000007478 00000 n 
+0000007541 00000 n 
+trailer
+<< /Size 9 /Root 8 0 R >>
+startxref
+7590
+%%EOF

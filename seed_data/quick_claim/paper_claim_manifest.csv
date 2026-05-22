@@ -1,0 +1,6 @@
+image_id,claim_id,member_id,form_type,file_path,file_format,received_date
+IMG00001,CLM2024-H001,MBR001,UB04,seed_data/quick_claim/images/IMG00001.pdf,PDF,2024-03-22
+IMG00002,CLM2024-H002,MBR002,UB04,seed_data/quick_claim/images/IMG00002.pdf,PDF,2024-06-19
+IMG00003,CLM2024-S003,MBR003,UB04,seed_data/quick_claim/images/IMG00003.pdf,PDF,2024-10-08
+IMG00006,CLM2024-S006,MBR006,UB04,seed_data/quick_claim/images/IMG00006.pdf,PDF,2024-04-25
+IMG00010,CLM2024-S010,MBR010,UB04,seed_data/quick_claim/images/IMG00010.pdf,PDF,2024-10-06

@@ -1,0 +1,134 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+3 0 obj
+<< /Length 3621 >>
+stream
+40.0 724.0 532.0 28.0 re S
+BT /F2 8 Tf 42.0 744.0 Td (PAYER CO) Tj ET
+BT /F1 7 Tf 42.0 734.0 Td (CLINICAL POLICY & COVERAGE DOCUMENTATION) Tj ET
+BT /F1 8 Tf 350.0 744.0 Td (Policy ID: POL-CARD-2024-008) Tj ET
+BT /F1 8 Tf 350.0 734.0 Td (Effective: 2024-01-01) Tj ET
+40.0 722.0 m 572.0 722.0 l S
+BT /F2 14 Tf 42.0 702.0 Td (Medical Necessity Criteria: Heart Failure Inpatient Admission \(DRG 291/292\)) Tj ET
+BT /F1 8 Tf 42.0 677.0 Td (Policy Number: POL-CARD-2024-008 | Category: Medical Necessity | Department: Medical Management) Tj ET
+BT /F2 12 Tf 42.0 656.0 Td (1. PURPOSE) Tj ET
+42.0 635.0 m 570.0 635.0 l S
+BT /F1 10 Tf 42.0 625.0 Td (This policy defines medical necessity criteria for inpatient admission of members) Tj ET
+BT /F1 10 Tf 42.0 610.0 Td (presenting with congestive heart failure \(CHF\) or acute decompensated heart failure) Tj ET
+BT /F1 10 Tf 42.0 595.0 Td (\(ADHF\), billed under DRG 291 \(Heart Failure & Shock with MCC\) or DRG 292 \(without MCC\).) Tj ET
+BT /F2 12 Tf 42.0 572.0 Td (2. MEDICAL NECESSITY CRITERIA FOR INPATIENT ADMISSION) Tj ET
+42.0 551.0 m 570.0 551.0 l S
+BT /F2 10 Tf 42.0 541.0 Td (Any ONE of the following clinical indicators supports inpatient admission:) Tj ET
+BT /F1 10 Tf 54.0 526.0 Td (O2 saturation < 90% on room air or requiring supplemental O2 > 2L/min) Tj ET
+BT /F1 10 Tf 54.0 511.0 Td (Heart rate > 120 bpm or < 50 bpm with hemodynamic compromise) Tj ET
+BT /F1 10 Tf 54.0 496.0 Td (Systolic BP < 90 mmHg \(cardiogenic shock criteria\)) Tj ET
+BT /F1 10 Tf 54.0 481.0 Td (BNP > 400 pg/mL or NT-proBNP > 1800 pg/mL on presentation) Tj ET
+BT /F1 10 Tf 54.0 466.0 Td (New or worsening renal failure \(Cr increase > 0.5 mg/dL from baseline\)) Tj ET
+BT /F1 10 Tf 54.0 451.0 Td (Requiring IV diuresis or vasoactive medications) Tj ET
+BT /F2 12 Tf 42.0 428.0 Td (3. EXPECTED LENGTH OF STAY) Tj ET
+42.0 407.0 m 570.0 407.0 l S
+BT /F1 10 Tf 42.0 397.0 Td (Uncomplicated ADHF \(DRG 292\): 3-5 days) Tj ET
+BT /F1 10 Tf 42.0 382.0 Td (ADHF with MCC \(DRG 291\): 5-8 days) Tj ET
+BT /F1 10 Tf 54.0 359.0 Td (MCC for DRG 291 commonly includes:) Tj ET
+BT /F1 9 Tf 66.0 344.0 Td (Septicemia \(A41.x\) as secondary diagnosis) Tj ET
+BT /F1 9 Tf 66.0 330.0 Td (Acute respiratory failure \(J96.0x\)) Tj ET
+BT /F1 9 Tf 66.0 316.0 Td (Acute kidney failure \(N17.x\)) Tj ET
+BT /F1 9 Tf 66.0 302.0 Td (CKD Stage 4-5 \(N18.4, N18.5\) with acute decompensation) Tj ET
+BT /F1 9 Tf 66.0 288.0 Td (Diabetes with hyperglycemia \(E11.65\) requiring IV insulin) Tj ET
+BT /F2 12 Tf 42.0 266.0 Td (4. COMORBIDITY CODING - RISK ADJUSTMENT IMPLICATIONS) Tj ET
+42.0 245.0 m 570.0 245.0 l S
+BT /F1 10 Tf 42.0 235.0 Td (The following secondary diagnoses affect HCC risk scores and must be coded) Tj ET
+BT /F1 10 Tf 42.0 220.0 Td (accurately when present and treated during the admission:) Tj ET
+BT /F1 10 Tf 54.0 197.0 Td (HCC 85 - Congestive Heart Failure \(I50.x\):) Tj ET
+BT /F1 9 Tf 66.0 182.0 Td (RAF weight: 0.331. Must document LVEF, ejection fraction type \(systolic/diastolic\).) Tj ET
+BT /F1 10 Tf 54.0 160.0 Td (HCC 136 - Chronic Kidney Disease Stage 5 \(N18.5\):) Tj ET
+BT /F1 9 Tf 66.0 145.0 Td (RAF weight: 0.289. Stage must be documented by treating physician.) Tj ET
+BT /F1 10 Tf 54.0 123.0 Td (HCC 18 - Diabetes with Chronic Complications \(E11.65\):) Tj ET
+BT /F1 9 Tf 66.0 108.0 Td (RAF weight: 0.302. Hyperglycemia treated with IV insulin qualifies.) Tj ET
+40.0 40.0 m 572.0 40.0 l S
+BT /F1 7 Tf 42.0 32.0 Td (CONFIDENTIAL - INTERNAL USE ONLY) Tj ET
+BT /F1 7 Tf 42.0 22.0 Td (THIS IS A MOCK DOCUMENT GENERATED FOR HACKATHON TESTING PURPOSES) Tj ET
+BT /F1 7 Tf 530.0 22.0 Td (Page 1) Tj ET
+endstream
+endobj
+4 0 obj
+<< /Type /Page /Parent 7 0 R
+   /MediaBox [0 0 612 792]
+   /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >>
+   /Contents 3 0 R >>
+endobj
+5 0 obj
+<< /Length 2804 >>
+stream
+40.0 724.0 532.0 28.0 re S
+BT /F2 8 Tf 42.0 744.0 Td (PAYER CO) Tj ET
+BT /F1 7 Tf 42.0 734.0 Td (CLINICAL POLICY & COVERAGE DOCUMENTATION) Tj ET
+BT /F1 8 Tf 350.0 744.0 Td (Policy ID: POL-CARD-2024-008) Tj ET
+BT /F1 8 Tf 350.0 734.0 Td (Effective: 2024-01-01) Tj ET
+40.0 722.0 m 572.0 722.0 l S
+BT /F2 11 Tf 42.0 702.0 Td (Medical Necessity Criteria: Heart Failure Inpatient Admission \(DRG 291/292\) \(continued\)) Tj ET
+BT /F2 12 Tf 42.0 682.0 Td (5. PRIOR AUTHORIZATION) Tj ET
+42.0 661.0 m 570.0 661.0 l S
+BT /F1 10 Tf 42.0 651.0 Td (Emergency inpatient admissions for ADHF do not require prior authorization.) Tj ET
+BT /F1 10 Tf 42.0 636.0 Td (Planned admissions for elective catheterization or device implant during CHF workup) Tj ET
+BT /F1 10 Tf 42.0 621.0 Td (require prior authorization under POL-CARD-2024-012.) Tj ET
+BT /F1 10 Tf 42.0 598.0 Td (Continued stay reviews are conducted at Day 3 for DRG 291 admissions.) Tj ET
+BT /F1 10 Tf 42.0 583.0 Td (Continued stay criteria must be documented in progress notes.) Tj ET
+BT /F2 12 Tf 42.0 560.0 Td (6. AUDIT TRIGGERS) Tj ET
+42.0 539.0 m 570.0 539.0 l S
+BT /F1 10 Tf 42.0 529.0 Td (The following patterns trigger automatic claims audit routing:) Tj ET
+BT /F1 10 Tf 54.0 514.0 Td (LOS > 10 days without documented complications or transfer note) Tj ET
+BT /F1 10 Tf 54.0 499.0 Td (DRG 291 billed without documented MCC in claim diagnosis field) Tj ET
+BT /F1 10 Tf 54.0 484.0 Td (HCC-qualifying diagnoses coded on claim but not documented in discharge summary) Tj ET
+BT /F1 10 Tf 54.0 469.0 Td (BNP / NT-proBNP not documented in chart for DRG 291 admission) Tj ET
+BT /F1 10 Tf 54.0 454.0 Td (Total charges > $90,000 for standard CHF admission) Tj ET
+BT /F2 12 Tf 42.0 431.0 Td (7. DISCHARGE PLANNING) Tj ET
+42.0 410.0 m 570.0 410.0 l S
+BT /F1 10 Tf 42.0 400.0 Td (Discharge to home with HH services \(FL 17 status 06\): document HH order in chart.) Tj ET
+BT /F1 10 Tf 42.0 385.0 Td (Discharge to SNF \(FL 17 status 03\): 3-day qualifying inpatient stay required for Medicare.) Tj ET
+BT /F1 10 Tf 42.0 370.0 Td (Discharge to LTAC \(FL 17 status 62\): requires prior authorization.) Tj ET
+BT /F2 12 Tf 42.0 347.0 Td (8. REFERENCES) Tj ET
+42.0 326.0 m 570.0 326.0 l S
+BT /F1 10 Tf 42.0 316.0 Td (ACC/AHA 2022 Guideline for Heart Failure Management) Tj ET
+BT /F1 10 Tf 42.0 301.0 Td (InterQual Criteria: Acute Care, Cardiovascular - Heart Failure) Tj ET
+BT /F1 10 Tf 42.0 286.0 Td (CMS ICD-10-CM Official Guidelines FY2024, Section I.C.9) Tj ET
+BT /F1 10 Tf 42.0 271.0 Td (CMS-HCC Risk Adjustment Model V28 \(2024\)) Tj ET
+40.0 40.0 m 572.0 40.0 l S
+BT /F1 7 Tf 42.0 32.0 Td (CONFIDENTIAL - INTERNAL USE ONLY) Tj ET
+BT /F1 7 Tf 42.0 22.0 Td (THIS IS A MOCK DOCUMENT GENERATED FOR HACKATHON TESTING PURPOSES) Tj ET
+BT /F1 7 Tf 530.0 22.0 Td (Page 2) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 7 0 R
+   /MediaBox [0 0 612 792]
+   /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >>
+   /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R] /Count 2 >>
+endobj
+8 0 obj
+<< /Type /Catalog /Pages 7 0 R >>
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000009 00000 n 
+0000000106 00000 n 
+0000000208 00000 n 
+0000003881 00000 n 
+0000004028 00000 n 
+0000006884 00000 n 
+0000007031 00000 n 
+0000007094 00000 n 
+trailer
+<< /Size 9 /Root 8 0 R >>
+startxref
+7143
+%%EOF
